@@ -1,4 +1,4 @@
-Paramete should be List of Integer : 
+Paramete should be List of Integer Array: 
 Example:
 List<int [][]> seatList = new ArrayList<>();
 		int[][] arr = new int[2][3]; // Row by Column
